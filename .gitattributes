@@ -1,0 +1,4 @@
+*.psd filter=media -crlf
+*.jpg filter=media -crlf
+*.png filter=media -crlf
+*.ai filter=media -crlf
